@@ -17,7 +17,18 @@ This model was built with [FreeCAD 0.19](https://freecadweb.org), a free and ope
 * Original FreeCAD file
 * Step file (exported from FreeCAD)
 * STL file (exported from FreeCAD in HQ)
-* Creality CR-10S gcode for 1 and 4 items (draft quality: 0.25 height, 90 mm/s, ~ 1h15'/item ).
+
+## Slicing
+Using [CURA 4.5](https://ultimaker.com/software/ultimaker-cura) and a Creality CR-10S, I was able to print a piece in less than 1h 15' with the following parameters:
+
+* based on the original CURA 4.5 profile for the CR-10S
+* draft quality: 0.25 layer height
+* line width: 0.38 (nozzle of 0.4mm)
+* speed: 90 mm/s
+* bottom layers: 2
+* top layers: 4
+
+However, due to the nature of the object being printed, and taking into account amongst other things the user comfort, I prefer to print it in **normal quality** (i.e. 0.20 layer height) which takes 1h 40' aproximately.
 
 ## LICENCIA / LICENSE
 
