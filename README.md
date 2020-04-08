@@ -19,16 +19,9 @@ This model was built with [FreeCAD 0.19](https://freecadweb.org), a free and ope
 * STL file (exported from FreeCAD in HQ)
 
 ## Slicing
-Using [CURA 4.5](https://ultimaker.com/software/ultimaker-cura) and a Creality CR-10S, I was able to print a piece in less than 1h 15' with the following parameters:
+A few days after publishing this work, **Stefan** from [CNC-Kitchen](https://www.cnckitchen.com/), published an incredible entry on his blog and youtube video channel on how to print these things **really fast**.
 
-* based on the original CURA 4.5 profile for the CR-10S
-* draft quality: 0.25 layer height
-* line width: 0.38 (nozzle of 0.4mm)
-* speed: 90 mm/s
-* bottom layers: 2
-* top layers: 4
-
-However, due to the nature of the object being printed, and taking into account amongst other things the user comfort, I prefer to print it in **normal quality** (i.e. 0.20 layer height) which takes 1h 40' aproximately.
+Please, go there to find-out the best way to do this: [How to 3D print face shields faster](https://www.cnckitchen.com/blog/how-to-3d-print-face-shields-faster)
 
 ## LICENCIA / LICENSE
 
